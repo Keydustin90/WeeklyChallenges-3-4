@@ -55,7 +55,7 @@
               "version": "[2.4.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/dustinkey/Library/Caches/VisualStudio/8.0/MSBuild/8399_1/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/dustinkey/Library/Caches/VisualStudio/8.0/MSBuild/1401_1/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -92,7 +92,7 @@
       "frameworks": {
         "net30": {
           "targetAlias": "net30",
-          "runtimeIdentifierGraphPath": "/Users/dustinkey/Library/Caches/VisualStudio/8.0/MSBuild/8399_1/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/dustinkey/Library/Caches/VisualStudio/8.0/MSBuild/1401_1/RuntimeIdentifierGraph.json"
         }
       }
     }
